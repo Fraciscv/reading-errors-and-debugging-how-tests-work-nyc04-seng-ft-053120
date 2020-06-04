@@ -1,2 +1,8 @@
 # Add your variables here
-first_number.to_i 
+puts first_number(num)
+end
+
+puts second_number
+end
+
+pu
