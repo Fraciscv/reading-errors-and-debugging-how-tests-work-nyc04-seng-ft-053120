@@ -1,2 +1,2 @@
 first_number = 1.2
-second_number = "hi"
+second_number = 2
