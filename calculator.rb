@@ -1,3 +1,3 @@
 # Add your variables here
-puts first_number(num)
+def first_number(num)
 end
