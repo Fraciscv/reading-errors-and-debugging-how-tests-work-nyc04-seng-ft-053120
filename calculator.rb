@@ -4,5 +4,3 @@ end
 
 puts second_number
 end
-
-pu
